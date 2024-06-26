@@ -1,1 +1,1 @@
-# Sentiment-Analysis-ML-Project
+# Sentiment-Analysis-NLP-Project
