@@ -1,10 +1,14 @@
 # Sentiment-Analysis-NLP-Project
 
 
-# Steps to run
+# Steps 
 
-### Download Amazon Fine Foods dataset 
-<code> python download_dataset.py</code>
+### Run the sentiment_analyzer_resampled notebook cells to train the model
+There is also a model that uses TfidfVectorizer. The former uses CountVectorizer. 
 
-### Go in to the sentiment_analyzer.ipynb file and run the cells
+### UI
+If you want a UI application, we have prepared a tkinter app. Run via
+<code> python app.py </code>
+
+NB: Make sure to run the necessary cells in the sentiment_analyzer_resampled.ipynb file before running the app. It needs the model trained in the former.
 
